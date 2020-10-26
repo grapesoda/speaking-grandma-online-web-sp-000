@@ -23,4 +23,3 @@ def speak_to_grandma(phrase)
 				end
 end 
 
-# execute function passing variable as argument
